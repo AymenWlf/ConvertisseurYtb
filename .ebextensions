@@ -1,0 +1,4 @@
+commands:
+  upgrade-pytube:
+    command: python -m pip install --upgrade pytube
+    ignoreErrors: true
